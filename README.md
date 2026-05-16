@@ -1,2 +1,7 @@
-[![Rahuldeb5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahuldeb5&show_icons=true&theme=tokyonight)](https://github.com/Rahuldeb5)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuldeb5&layout=compact&theme=tokyonight)](https://github.com/Rahuldeb5)
+### Hi, I'm Rahul 👋
+
+Computer vision enthusiast and incoming Honors CS student at Stony Brook University.
+
+**Languages:** Python · Java · C · C++ · JavaScript · TypeScript
+
+**Frameworks & Tools:** PyTorch · React · SQL · Git · Docker · Linux
